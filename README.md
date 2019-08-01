@@ -6,7 +6,20 @@ Time : 6-9
 
 Project Structure:
 
-#DATASET:
+DATASET EXPLINATION:
+
+First of all i've take a library called beautifulsoup.
+
+Beautiful Soup is a Python library for pulling data out of HTML and XML files.
+
+after that, take some genre which show top movies according to imbd rating.
+
+connect the imbd links with genre.
+
+ALGORITHM:
+
+Select scrapping algorithm which shows the list by the emotions.
+
 
 
 
